@@ -1,0 +1,15 @@
+*{margin:0;padding:0}
+h1{text-align:center;padding:1em;background:GreenYellow}
+fieldset a,fieldset div{display:block;float:left;padding:1em 0em}
+fieldset a{font-size:1.5em;text-alian:center;width:70%}
+fieldset div{width:15%;line-height:3em;text-align:center;cursor:zoom-in}
+fieldset {margin-bottom:1em;padding-left:1em}
+section>div{padding:1em 1em 1.5em 1em}
+footer{text-align:center;padding:1em;width:100%}
+div.preview{display:none;width:5em;height:5em;border:1px solid red;position:absolute;background:green}
+div.member{display:none;width:5em;height:5em;border:1px solid greed;position:absolute;background:red}
+select{font-size:0.7em}
+legend{position:relative;top:0.4em}
+.pmem {line-height:1.8em}
+
+
